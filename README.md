@@ -1,1 +1,11 @@
-# cs300
+# CS 300 Module Eight Journal
+
+In these projects, I was solving the problem of organizing and searching course information for ABCU's advising program. The goal was to create a system that could efficiently load course data, print a sorted list of courses, and allow users to search for individual courses and view their prerequisites. To accomplish this, I analyzed different data structures and compared their performance before implementing a Binary Search Tree in my final program.
+
+I approached the problem by first learning how vectors, hash tables, and binary search trees store and access data. Understanding data structures was important because each one has different strengths and weaknesses. I compared their run-time performance and memory usage to determine which would be the best choice for the advising program. Based on my analysis, I selected the Binary Search Tree because it provided a good balance between efficient searching and maintaining courses in sorted order.
+
+One of the biggest roadblocks I encountered was getting the program to correctly read the input file and handle user input. I ran into issues with file names containing spaces and with menu input not behaving as expected. I worked through these problems by debugging the code, testing different solutions, and making adjustments to how the program handled input. These challenges helped me better understand how small implementation details can affect the overall functionality of a program.
+
+Working on these projects expanded my approach to software design by showing me the value of planning before coding. Creating pseudocode and analyzing data structures ahead of time made the implementation process much smoother. It also reinforced the importance of selecting the right data structure for a specific problem instead of simply using the easiest option available.
+
+This project has also influenced how I write programs that are maintainable, readable, and adaptable. I focused on separating functionality into different functions, using meaningful variable names, and adding comments throughout the code. By organizing the program in a clear way, it becomes easier to understand, debug, and modify in the future. These are practices that I plan to continue using in future software development projects.
